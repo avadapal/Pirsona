@@ -19,6 +19,10 @@ sudo apt-get install libboost-all-dev
 
 sudo apt-get install -y libbsd-dev
 
+make
+
+sh setup.sh
+
 ./p2
 
 ./p3 ip2
